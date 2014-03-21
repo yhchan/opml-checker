@@ -16,7 +16,7 @@ $ python setup.py install
 $ opml-checker [--chunk-size CHUNK_SIZE] [--silent] [--output-json OUTPUT_JSON] opml_file
 ```
 
-如
+For example:
 
 ```bash
 $ opml-checker feedly.opml
