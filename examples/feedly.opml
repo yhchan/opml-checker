@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>My subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="software" title="software">
+            <outline type="rss" text="Skype Blogs" title="Skype Blogs" xmlUrl="http://share.skype.com/sites/en/atom.xml"/>
+            <outline type="rss" text="Visual C++ Team Blog" title="Visual C++ Team Blog" xmlUrl="http://blogs.msdn.com/vcblog/rss.xml" htmlUrl="http://blogs.msdn.com/b/vcblog/"/>
+            <outline type="rss" text="Amazon Web Services Blog" title="Amazon Web Services Blog" xmlUrl="http://feeds.feedburner.com/AmazonWebServicesBlog" htmlUrl="http://aws.typepad.com/aws/"/>
+            <outline type="rss" text="IEBlog" title="IEBlog" xmlUrl="http://blogs.msdn.com/ie/atom.xml" htmlUrl="http://blogs.msdn.com/b/ie/"/>
+            <outline type="rss" text="hacks.mozilla.org" title="hacks.mozilla.org" xmlUrl="http://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org"/>
+            <outline type="rss" text="The Mozilla Blog" title="The Mozilla Blog" xmlUrl="http://blog.mozilla.com/feed/" htmlUrl="https://blog.mozilla.org"/>
+            <outline type="rss" text="LLVM Project Blog" title="LLVM Project Blog" xmlUrl="http://blog.llvm.org/feeds/posts/default" htmlUrl="http://blog.llvm.org/"/>
+        </outline>
+    </body>
+</opml>
